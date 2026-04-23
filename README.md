@@ -10,6 +10,7 @@ Testing Type:Manual & Exploratory Testing
 
 ## Test Coverage
 |               Module                      |            No. of Test Cases           |
+|-------------------------------------------|----------------------------------------|
 |               Login                       |                 9                      |
 |       PIM – Employee Management           |                 6                      |
 |             Recruitment                   |                10                      |
@@ -17,6 +18,7 @@ Testing Type:Manual & Exploratory Testing
 |              Attendance                   |                 8                      |
 |          Logout & Session Security        |                 3                      |
 |   Dashboard, Performance, Buzz, Directory |                 9                      |
+|-------------------------------------------|----------------------------------------|
 |                Total                      |                50                      |
 
 ## Bugs Found (High Severity)
@@ -32,4 +34,5 @@ Testing Type:Manual & Exploratory Testing
 
 ## Files
 | File                        | Description                                                                         |
+|-----------------------------|-------------------------------------------------------------------------------------|
 | `orangehrm-test-cases.xlsx` | 50 test cases with steps, expected vs actual results, severity, and suggested fixes |
